@@ -1,2 +1,8 @@
 Rowan Kinney
+
 rtkinney
+
+rk131321@ohio.edu
+
+Answers are recorded in answers.md
+
